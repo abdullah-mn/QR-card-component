@@ -30,7 +30,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - [Solution URL here](https://www.frontendmentor.io/solutions/mobilefirst-card-component-solution-using-css-flexbox-F-PmGQRUf3)
-- [Live site URL here](https://des2dev.github.io/QR-card-component/)
+- [Live site URL here](https://abdullah-mn.github.io/QR-card-component/)
 
 ## My process
 
@@ -48,4 +48,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Frontend Mentor - [@Des2Dev](https://www.frontendmentor.io/profile/Des2Dev)
+- Frontend Mentor - [@Des2Dev](https://www.frontendmentor.io/profile/abdullah-mn)
